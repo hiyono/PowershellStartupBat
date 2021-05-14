@@ -1,0 +1,2 @@
+# PowershellStartupBat
+Powershellスクリプトを一時的に管理者で起動するbat
